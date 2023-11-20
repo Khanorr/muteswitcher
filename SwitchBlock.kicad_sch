@@ -358,7 +358,7 @@
     (property "Value" "G5V-2" (at 134.62 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Relay_THT:Relay_StandexMeder_UMS" (at 135.89 102.87 0)
+    (property "Footprint" "Relay_THT:Relay_DPDT_Omron_G5V-2" (at 135.89 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf" (at 134.62 86.36 0)

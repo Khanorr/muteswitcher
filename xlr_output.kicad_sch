@@ -483,7 +483,7 @@
     (property "Value" "Conn_02x05_Counter_Clockwise" (at 66.04 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 64.77 91.44 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical" (at 64.77 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 64.77 91.44 0)
