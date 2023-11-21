@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Essigfabrik 2-Way PA Switcher")
+    (date "2023-11-21")
+    (rev "1")
+    (company "Daniel Machnik Sounddesign und Tontechnik")
+  )
+
   (lib_symbols
     (symbol "Relay:G5V-2" (in_bom yes) (on_board yes)
       (property "Reference" "K" (at 16.51 3.81 0)

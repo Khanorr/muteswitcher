@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Essigfabrik 2-Way PA Switcher")
+    (date "2023-11-21")
+    (rev "1")
+    (company "Daniel Machnik Sounddesign und Tontechnik")
+  )
+
   (lib_symbols
     (symbol "Jumper:SolderJumper_2_Open" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "JP" (at 0 2.032 0)
